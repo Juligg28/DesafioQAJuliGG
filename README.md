@@ -7,7 +7,7 @@ IDE: IntelliJ IDEA 2021.3.3 (Community Edition)
 
 Este desafio técnico faz parte do processo seletivo para vaga Test Automation Enginnering na empresa Accenture
 
-O site Tricentis é uma plataforma para cadastro de dados para propostas de seguros de veículos, e solitação de apólice. 
+O site Tricentis é uma plataforma para cadastro de dados para propostas de seguros de veículos, e solicitação de apólice. 
 
 Preencher os formulários da página 'Automobile Insurance'
 
