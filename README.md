@@ -3,8 +3,7 @@ Desafio de QA do Site Tricentis
 
 
 💻 Tecnologias utilizadas: Cucumber, Selenium Web Driver & Java
-IDE: Eclipse
-
+IDE: IntelliJ IDEA 2021.3.3 (Community Edition)
 
 Este desafio técnico faz parte do processo seletivo para vaga Test Automation Enginnering na empresa Accenture
 
