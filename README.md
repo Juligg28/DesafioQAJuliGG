@@ -13,13 +13,15 @@ Preencher os formulários da página 'Automobile Insurance'
 
 Casos de teste
 
-Cenário 1:: Acesso no site http://sampleapp.tricentis.com/101/app.php
-Cenário 2: Preencher o formulário, aba 'Enter Vehicle Data' e pressionar Next
-Cenário 3: Preencher o formulário, aba 'Enter Insurant Data' e pressionar Next
-Cenário 4: Preencher o formulário, aba 'Enter Product Data' e pressionar Next
-Cenário 5: Preencher o formulário, aba 'Select Price Option' e pressionar Next
-Cenário 6: Preencher o formulário, aba 'Send Quote' e pressionar Send
-Cenário 7: Verificar a mensagem 'Sending e-email success!' na tela
+Cenário :: 
+
+Dado Acesso no site http://sampleapp.tricentis.com/101/app.php
+Quando Preencher o formulário, aba 'Enter Vehicle Data' e pressionar Next
+E Preencher o formulário, aba 'Enter Insurant Data' e pressionar Next
+E Preencher o formulário, aba 'Enter Product Data' e pressionar Next
+E Preencher o formulário, aba 'Select Price Option' e pressionar Next
+E Preencher o formulário, aba 'Send Quote' e pressionar Send
+Então Verificar a mensagem 'Sending e-email success!' na tela
 
 Pré requisitos
 
