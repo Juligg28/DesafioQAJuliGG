@@ -15,13 +15,13 @@ Casos de teste
 
 Cenário :: 
 
-Dado Acesso no site http://sampleapp.tricentis.com/101/app.php
-Quando Preencher o formulário, aba 'Enter Vehicle Data' e pressionar Next
-E Preencher o formulário, aba 'Enter Insurant Data' e pressionar Next
-E Preencher o formulário, aba 'Enter Product Data' e pressionar Next
-E Preencher o formulário, aba 'Select Price Option' e pressionar Next
-E Preencher o formulário, aba 'Send Quote' e pressionar Send
-Então Verificar a mensagem 'Sending e-email success!' na tela
+Dado Acesso no site http://sampleapp.tricentis.com/101/app.php;
+Quando Preencher o formulário, aba 'Enter Vehicle Data' e pressionar Next;
+E Preencher o formulário, aba 'Enter Insurant Data' e pressionar Next;
+E Preencher o formulário, aba 'Enter Product Data' e pressionar Next;
+E Preencher o formulário, aba 'Select Price Option' e pressionar Next;
+E Preencher o formulário, aba 'Send Quote' e pressionar Send;
+Então Verificar a mensagem 'Sending e-email success!' na tela;
 
 Pré requisitos
 
